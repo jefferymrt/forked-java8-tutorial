@@ -17,6 +17,6 @@ public class CompletableFuture1 {
                 .thenAccept(System.out::println)
                 .thenAccept(v -> System.out.println("done"));
 
-    }
+    } // This is my second comment
 
 }
